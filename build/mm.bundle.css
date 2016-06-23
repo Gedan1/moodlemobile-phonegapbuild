@@ -2751,7 +2751,7 @@ ion-infinite-scroll {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #fff;
+  background-color: #f6f7f9;
   overflow: hidden; }
 
 .view-container {
@@ -7717,7 +7717,7 @@ em {
  */
 .bar-content {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #3e3c3a;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
@@ -8142,7 +8142,7 @@ mm-timer.mm-timer.mm-timer-timeleft-15 {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f70;
+  background-color: ##c21e11;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
